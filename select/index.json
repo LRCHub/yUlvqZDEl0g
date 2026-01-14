@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ブレイブルー",
+  "base_artist": "FLOW",
+  "createdAt": "2026-01-14T08:40:45.845243Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブレイブルー",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/01_ブレイブルー_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bray Blue/ブレイブルー",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/02_Bray_Blue_ブレイブルー_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブレイブルー",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/03_ブレイブルー_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブレイブルー",
+      "artist": "フロウ",
+      "has_synced": false,
+      "path": "select/04_ブレイブルー_フロウ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブレイブルー",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/pl_01_ブレイブルー_FLOW.txt"
+    }
+  ]
+}
